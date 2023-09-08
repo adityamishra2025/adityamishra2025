@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityamishra2025
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning DSA, DBMS, OS
+- 🌱 I’m currently learning DSA, DBMS, OS, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
